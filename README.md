@@ -1,8 +1,5 @@
 # Node.js-Professional-README-Generator
 
-## Deployed Application
-[Click Here!](https://jordan-stafford.github.io/Node.js-Professional-README-Generator/)
-
 ## Badges
 ![issues](https://img.shields.io/github/issues/Jordan-Stafford/HTML-CSS-Git-Code-Refactor?style=for-the-badge)
 ![forks](https://img.shields.io/github/forks/Jordan-Stafford/HTML-CSS-Git-Code-Refactor?style=for-the-badge)
@@ -16,7 +13,7 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Description](#description)
-- [Features](#features)
+- [Media](#media)
 - [Installation](#installation)
 - [Contributors](#contributors)
 - [Contact](#contact)
@@ -45,8 +42,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Description
 
-## Features
-//INSERT MEDIA//
+## Media
 
 ## Installation
 
