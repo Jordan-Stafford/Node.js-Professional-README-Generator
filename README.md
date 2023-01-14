@@ -41,10 +41,16 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Description
+This is the 6th challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have mastered the use of Inquirer, Node.js, and Javascript. To use this readme generator, open the terminal (VS Code or Git Bash), cd into the Develop folder, and enter node index.js. You will then be prompted a series of questions regarding your readme file. Once you have answered all the questions, your readme file will appear inside the Develop folder. 
 
 ## Media
+![GitHub_7](https://user-images.githubusercontent.com/114362462/212501256-014c01e8-fbf7-4f77-bda4-660fa148fba0.png)
+![GitHub_7(1)](https://user-images.githubusercontent.com/114362462/212501258-17974228-e6c8-4c63-be24-f667a7f8cbf5.png)
+![GitHub_7(2)](https://user-images.githubusercontent.com/114362462/212501263-6d8ee0ff-c007-4a88-b382-01226f9cb4ba.png)
 
 ## Installation
+Fork this repo/copy the code onto your machine.
+
 
 ## Contributor(s)
 [Jordan-Stafford](https://github.com/Jordan-Stafford)
